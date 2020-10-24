@@ -1,0 +1,19 @@
+{
+  "id": "731-679-N--2020-05-05--13.14.20--detections",
+  "model": "ResNet50_COCO_best_v2.0.1.h5",
+  "summary": {
+    "total": 1,
+    "person": 1
+  },
+  "731-679-N--2020-05-05--13.14.20--detections--1--person--33.8--5x15--101.67v106.82": {
+    "type": "person",
+    "id": "731-679-N--2020-05-05--13.14.20--detections--1--person--33.8--5x15--101.67v106.82",
+    "percentage_probability": 33.8148295879364,
+    "box_points": [
+      101,
+      67,
+      106,
+      82
+    ]
+  }
+}
